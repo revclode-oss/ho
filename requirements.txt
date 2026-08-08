@@ -1,9 +1,1 @@
-pyTelegramBotAPI
-requests
-cryptography
-flask
-APScheduler
-PyGithub
-psutil
-Pillow
-curl_cffi
+python-telegram-bot==20.6
